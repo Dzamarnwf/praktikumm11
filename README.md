@@ -1,7 +1,7 @@
 ## Tugas Menyelesaikan UAS BAHASA PEMROGRAMAN
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| Muhammad Rizky Abdillah | TI.A2.20 | 312010386 | Bahasa Pemrograman |
+| Dzamar Nawaf Fatih | TI.22.A4 | 312010477 | Bahasa Pemrograman |
 ## Daftar Isi
 | No | ISI | Link | Source Code |
 | -- | --- | ---- | ----------- |
